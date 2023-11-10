@@ -1,0 +1,14 @@
+.testimonials {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 150%;
+}
+.property1default {
+  width: 125px;
+  height: 30px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

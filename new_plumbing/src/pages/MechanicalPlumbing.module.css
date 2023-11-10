@@ -1,0 +1,203 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  width: 1508px;
+  height: 232px;
+  object-fit: cover;
+}
+.groupItem,
+.rectangleParent {
+  position: absolute;
+  left: 0;
+  width: 1512px;
+  height: 232px;
+}
+.groupItem {
+  top: 0;
+  background: linear-gradient(90deg, #ff7518, rgba(217, 217, 217, 0));
+}
+.rectangleParent {
+  top: 179px;
+}
+.mechanicalplumbing1 {
+  position: absolute;
+  top: 255px;
+  left: 116px;
+  font-size: 50px;
+  font-weight: 900;
+  color: var(--color-white);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 539px;
+  height: 79px;
+}
+.procoreEstimators {
+  color: var(--color-darkorange);
+}
+.atProcoreEstimatorsContainer {
+  position: absolute;
+  top: 468px;
+  left: 166px;
+  font-size: var(--font-size-7xl);
+  display: inline-block;
+  width: 1180px;
+  height: 244px;
+}
+.benefitsOfMechanical,
+.ourPlumbingEstimating,
+.plumbingEstimationData {
+  position: absolute;
+  left: 11.18%;
+  font-weight: 900;
+  color: var(--color-darkorange);
+  display: flex;
+  align-items: center;
+}
+.plumbingEstimationData {
+  height: 1.56%;
+  width: 35.32%;
+  top: 28.96%;
+  text-align: center;
+  justify-content: center;
+}
+.benefitsOfMechanical,
+.ourPlumbingEstimating {
+  height: 1.57%;
+  width: 44.64%;
+  top: 41.07%;
+}
+.ourPlumbingEstimating {
+  top: 50.75%;
+}
+.instanceParent {
+  position: absolute;
+  top: 1386.3px;
+  left: 316px;
+  width: 880px;
+  height: 342px;
+}
+.gettingAccessTo {
+  margin-bottom: 0;
+}
+.gettingAccessToTheIndustry {
+  margin: 0;
+  padding-left: var(--padding-16xl);
+}
+.gettingAccessToContainer {
+  position: absolute;
+  top: 1902px;
+  left: 158px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  display: flex;
+  align-items: center;
+  width: 708px;
+}
+.coldWaterPipesContainer,
+.pipeConcealmentInsulationsContainer {
+  position: absolute;
+  top: 2348px;
+  left: 151px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+}
+.pipeConcealmentInsulationsContainer {
+  top: 2352px;
+  left: 602px;
+}
+.mechanicalplumbingChild {
+  position: absolute;
+  top: 1902px;
+  left: 866px;
+  border-radius: var(--br-mini);
+  width: 480px;
+  height: 653px;
+  object-fit: cover;
+}
+.areYouReady,
+.clickHere,
+.toUploadYour {
+  position: absolute;
+  left: 0;
+  line-height: 150%;
+  display: inline-block;
+}
+.areYouReady {
+  top: 0;
+  font-size: var(--font-size-21xl);
+  color: var(--color-darkorange);
+  width: 766px;
+}
+.clickHere,
+.toUploadYour {
+  top: 137px;
+  width: 1180px;
+  height: 51px;
+}
+.clickHere {
+  text-decoration: underline;
+  color: var(--color-darkorange);
+  width: 134px;
+  height: 28px;
+}
+.getAQuote,
+.receiveEstimate {
+  position: absolute;
+  top: 238px;
+  left: 2px;
+  font-size: var(--font-size-9xl);
+  line-height: 150%;
+}
+.receiveEstimate {
+  top: 359px;
+}
+.quotesWillBe {
+  top: 290px;
+  left: 2px;
+}
+.estimatesWillBe,
+.quotesWillBe,
+.uploadYouPlans {
+  position: absolute;
+  line-height: 150%;
+}
+.estimatesWillBe {
+  top: 427px;
+  left: 2px;
+  display: inline-block;
+  width: 1179px;
+}
+.uploadYouPlans {
+  top: 78px;
+  left: 0;
+  font-size: var(--font-size-9xl);
+}
+.areYouReadyToGetStartedWParent,
+.mechanicalplumbingInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1181px;
+  height: 505px;
+}
+.mechanicalplumbingInner {
+  top: 2661px;
+  left: 166px;
+  font-size: var(--font-size-7xl);
+  font-family: var(--font-inter);
+}
+.mechanicalplumbing {
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4461px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-segoe-ui);
+}

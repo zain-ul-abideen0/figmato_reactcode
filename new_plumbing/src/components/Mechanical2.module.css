@@ -1,0 +1,40 @@
+.property1defaultChild,
+.property1defaultItem {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+}
+.property1defaultChild {
+  height: 100%;
+  top: 0;
+  background-color: var(--color-darkslategray);
+}
+.property1defaultItem {
+  height: 70.18%;
+  top: 29.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.mechanicalEquipmentInstallat {
+  position: absolute;
+  height: 8.19%;
+  width: 95.36%;
+  top: 7.89%;
+  left: 2.14%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.property1default {
+  width: 280px;
+  height: 342px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-segoe-ui);
+}

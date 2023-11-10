@@ -1,0 +1,17 @@
+.takeALook {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 249px);
+  font-weight: 900;
+}
+.takeALookAtOurTradesParent {
+  position: absolute;
+  top: 3203px;
+  left: calc(50% - 590px);
+  width: 1180px;
+  height: 379px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-darkorange);
+  font-family: var(--font-segoe-ui);
+}

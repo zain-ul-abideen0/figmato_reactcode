@@ -1,0 +1,128 @@
+.naveBarChild {
+  position: absolute;
+  height: 91.3%;
+  width: 100%;
+  top: 4.35%;
+  right: 0;
+  bottom: 4.35%;
+  left: 0;
+  background-color: var(--color-gainsboro);
+}
+.home1,
+.logo51 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.logo51 {
+  height: 100%;
+  width: 11.64%;
+  right: 88.36%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.home1 {
+  line-height: 150%;
+}
+.groupChild,
+.home {
+  position: absolute;
+  height: 43.48%;
+  width: 3.84%;
+  top: 26.09%;
+  right: 75.66%;
+  bottom: 30.43%;
+  left: 20.5%;
+}
+.groupChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkorange);
+}
+.getEstimate {
+  position: absolute;
+  top: 14.29%;
+  left: 10.07%;
+  line-height: 150%;
+}
+.rectangleParent {
+  position: absolute;
+  height: 60.87%;
+  width: 9.85%;
+  top: 17.39%;
+  right: 2.31%;
+  bottom: 21.74%;
+  left: 87.83%;
+  color: var(--color-white);
+  font-family: var(--font-segoe-ui);
+}
+.aboutUs,
+.service {
+  position: absolute;
+  height: 43.48%;
+  width: 4.96%;
+  top: 26.09%;
+  right: 68.65%;
+  bottom: 30.43%;
+  left: 26.39%;
+}
+.aboutUs {
+  width: 5.89%;
+  right: 60.71%;
+  left: 33.4%;
+}
+.contactUs,
+.estimationFee,
+.payment,
+.testimonials,
+.testimonials2 {
+  position: absolute;
+  height: 43.48%;
+  width: 5.69%;
+  top: 26.09%;
+  right: 52.98%;
+  bottom: 30.43%;
+  left: 41.34%;
+}
+.contactUs,
+.estimationFee,
+.testimonials,
+.testimonials2 {
+  width: 8.27%;
+  right: 42.66%;
+  left: 49.07%;
+}
+.contactUs,
+.estimationFee,
+.testimonials2 {
+  width: 5.75%;
+  right: 34.85%;
+  left: 59.39%;
+}
+.contactUs,
+.estimationFee {
+  width: 9.33%;
+  right: 23.48%;
+  left: 67.2%;
+}
+.contactUs {
+  width: 7.08%;
+  right: 14.35%;
+  left: 78.57%;
+}
+.naveBar {
+  width: 1512px;
+  height: 69px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

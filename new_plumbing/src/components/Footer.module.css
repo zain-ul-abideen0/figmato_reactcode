@@ -1,0 +1,227 @@
+.text,
+.textWrapper {
+  position: absolute;
+  top: 0;
+  width: 397px;
+}
+.text {
+  left: calc(50% - 198.5px);
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+}
+.textWrapper {
+  left: calc(50% - 242px);
+  height: 24px;
+}
+.span {
+  color: var(--color-gray-100);
+}
+.bzone {
+  color: var(--color-orangered);
+}
+.text1 {
+  top: 0;
+  left: calc(50% + 155px);
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  width: 79px;
+  color: var(--color-green);
+}
+.groupChild,
+.r,
+.text1 {
+  position: absolute;
+}
+.groupChild {
+  top: 1px;
+  left: 0;
+  border-radius: 50%;
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 8px;
+  height: 8px;
+}
+.r {
+  bottom: 2px;
+  left: 3px;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  width: 2px;
+  height: 7px;
+}
+.ellipseParent {
+  position: absolute;
+  top: 0;
+  left: 476px;
+  width: 8px;
+  height: 9px;
+  font-size: var(--font-size-7xs);
+  color: var(--color-white);
+}
+.groupParent {
+  position: absolute;
+  top: 399px;
+  left: calc(50% - 242px);
+  width: 484px;
+  height: 24px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+}
+.procoreEstimatorsAreContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.procoreEstimatorsAreContainer {
+  position: absolute;
+  top: 128px;
+  left: 115px;
+  font-size: var(--font-size-mini);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 325px;
+  height: 212px;
+  color: var(--color-darkorange);
+  font-family: var(--font-roboto);
+}
+.procoreLogoFileCopy1Icon {
+  position: absolute;
+  top: 23px;
+  left: 106px;
+  width: 205px;
+  height: 85px;
+  object-fit: cover;
+}
+.contact,
+.navigation {
+  position: absolute;
+  top: 59px;
+  left: calc(50% - 114px);
+  font-size: var(--font-size-16xl);
+  line-height: 150%;
+  display: inline-block;
+  text-align: left;
+  width: 187px;
+}
+.contact {
+  left: calc(50% + 390px);
+}
+.link {
+  top: 125px;
+  left: calc(50% - 78px);
+  width: 117px;
+}
+.link,
+.link1,
+.link2,
+.link3 {
+  position: absolute;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+}
+.link1 {
+  top: 183px;
+  left: calc(50% - 86px);
+  width: 133px;
+}
+.link2,
+.link3 {
+  top: 241px;
+  left: 671px;
+  width: 131px;
+}
+.link3 {
+  top: 299px;
+  left: 682px;
+  width: 109px;
+}
+.footerChild {
+  position: absolute;
+  height: 9.28%;
+  width: 2.65%;
+  top: 45.94%;
+  right: 21.69%;
+  bottom: 44.78%;
+  left: 75.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div {
+  position: absolute;
+  top: 47.8%;
+  left: 79.03%;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-segoe-ui);
+  color: var(--color-gray-100);
+  text-align: justify;
+}
+.footerItem {
+  position: absolute;
+  height: 9.28%;
+  width: 2.65%;
+  top: 63.81%;
+  right: 21.69%;
+  bottom: 26.91%;
+  left: 75.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.daveprocoreestimatorscom {
+  position: absolute;
+  height: 6.26%;
+  width: 18.39%;
+  top: 65.66%;
+  left: 79.03%;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-segoe-ui);
+  text-align: justify;
+  display: flex;
+  align-items: center;
+}
+.footerInner {
+  position: absolute;
+  top: 125px;
+  left: 1146px;
+  width: 36px;
+  height: 36px;
+}
+.bedfordAveBrooklyn {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.bedfordAveBrooklynNy1122Wrapper {
+  position: absolute;
+  height: 10.67%;
+  width: 18.39%;
+  top: 28.07%;
+  right: 2.58%;
+  bottom: 61.25%;
+  left: 79.03%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.footer {
+  background-color: var(--color-gray-200);
+  width: 1512px;
+  height: 431px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

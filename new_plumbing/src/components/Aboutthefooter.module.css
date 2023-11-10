@@ -1,0 +1,126 @@
+.uploadYourPlan {
+  position: absolute;
+  height: 36.39%;
+  width: 18.12%;
+  top: 61.79%;
+  left: 3.77%;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.groupChild,
+.groupInner,
+.groupItem {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupInner,
+.groupItem {
+  height: 41.14%;
+  width: 22.22%;
+  top: 71.72%;
+  right: 20.37%;
+  bottom: -12.86%;
+  left: 57.41%;
+  border-radius: 50%;
+}
+.groupInner {
+  right: 43.83%;
+  left: 33.95%;
+}
+.rectangleDiv {
+  position: absolute;
+  height: 99.07%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0.93%;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkorange);
+  box-shadow: 13px 13px 4px rgba(0, 0, 0, 0.25);
+}
+.uploadYourPlans {
+  position: absolute;
+  height: 100%;
+  width: 84.57%;
+  top: 0;
+  left: 7.72%;
+  text-transform: uppercase;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ellipseParent,
+.rectangleGroup {
+  position: absolute;
+  height: 65.9%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 34.1%;
+  left: 0;
+}
+.ellipseParent {
+  height: 100%;
+  width: 23.81%;
+  right: 76.19%;
+  bottom: 0;
+}
+.forAQuick {
+  font-weight: 900;
+}
+.forAQuickContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.forAQuickContainer {
+  position: absolute;
+  height: 55.9%;
+  width: 69.07%;
+  top: 16.77%;
+  left: 30.93%;
+  font-size: var(--font-size-13xl);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.groupParent,
+.rectangleParent {
+  position: absolute;
+  height: 55.22%;
+  width: 90.01%;
+  top: 22.53%;
+  right: 5.36%;
+  bottom: 22.25%;
+  left: 4.63%;
+}
+.rectangleParent {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-family: var(--font-segoe-ui);
+}
+.uploadYourPlanAndGetQuoteParent {
+  width: 1512px;
+  height: 324px;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-barlow-condensed);
+}

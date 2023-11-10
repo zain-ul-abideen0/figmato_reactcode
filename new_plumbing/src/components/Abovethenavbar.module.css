@@ -1,0 +1,142 @@
+.groupChild {
+  background-color: var(--color-darkslategray);
+}
+.groupChild,
+.groupWrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.turnaroundTime2448 {
+  margin: 0;
+}
+.turnaroundTime2448Container {
+  position: absolute;
+  height: 44.71%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 140%;
+  display: inline-block;
+}
+.blinkerChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--color-darkorange);
+}
+.affordableEstimate30 {
+  position: absolute;
+  width: 95.76%;
+  top: 8.33%;
+  left: 2.12%;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.blinker {
+  position: absolute;
+  height: 42.35%;
+  width: 77.1%;
+  top: 57.65%;
+  right: 11.45%;
+  bottom: 0;
+  left: 11.45%;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}
+.turnaroundTime2448HoursParent {
+  position: absolute;
+  height: 73.28%;
+  width: 28.31%;
+  top: 13.79%;
+  right: 35.85%;
+  bottom: 12.93%;
+  left: 35.85%;
+  text-align: center;
+}
+.componentChild,
+.componentItem {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.componentChild {
+  position: absolute;
+  height: 20.69%;
+  width: 3.97%;
+  top: 39.66%;
+  right: 1.39%;
+  bottom: 39.66%;
+  left: 94.64%;
+}
+.componentItem {
+  height: 22.41%;
+  width: 1.72%;
+  top: 18.1%;
+  right: 20.83%;
+  bottom: 59.48%;
+  left: 77.45%;
+}
+.componentItem,
+.div,
+.groupItem {
+  position: absolute;
+}
+.div {
+  top: 18.1%;
+  left: 80.03%;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-gray-100);
+}
+.groupItem {
+  height: 96.3%;
+  width: 10%;
+  top: 3.7%;
+  right: 90%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.daveprocoreestimatorscom {
+  position: absolute;
+  height: 100%;
+  width: 85%;
+  top: 0;
+  left: 15%;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.groupContainer {
+  position: absolute;
+  height: 23.28%;
+  width: 17.2%;
+  top: 51.72%;
+  right: 5.36%;
+  bottom: 25%;
+  left: 77.45%;
+  font-size: var(--font-size-base);
+}
+.groupParent {
+  width: 1512px;
+  height: 116px;
+  text-align: justify;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-segoe-ui);
+}
